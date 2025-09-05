@@ -19,7 +19,7 @@ I’m passionate about building **secure, scalable, and user-friendly software**
 ## 📂 Featured Projects
 
 ### 🖐️ *Dilo en Señas* (Say it in Signs)
-Cross-platform mobile app built with **React Native**, designed to support the deaf community by translating text into sign language.  
+Cross-platform mobile app built with **React Native/Swift**, designed to support the deaf community by translating text into sign language.  
 - Integration with computer vision APIs.  
 - Accessible and user-friendly UI.  
 - Secure and scalable mobile architecture.  
