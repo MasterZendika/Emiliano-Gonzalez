@@ -36,7 +36,7 @@ I’m passionate about building **secure, scalable, and user-friendly software**
 - Designed grammar rules and integrated them in ANTLR.  
 - Developed the scanner and parser modules.  
 - Documented the compilation process and test cases.   
-👉 [Repository](./compiler_babyduck)  
+👉 [Repository](https://github.com/MasterZendika/BabyDuck-Compiler)  
 
 ---
 
