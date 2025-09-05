@@ -23,7 +23,7 @@ Cross-platform mobile app built with **React Native/Swift**, designed to support
 - Integration with computer vision APIs.  
 - Accessible and user-friendly UI.  
 - Secure and scalable mobile architecture.  
-👉 [Repository](./dilo_en_senas)  
+👉 [Repository](https://github.com/AlonsoM207/Reto_Equipo1)  
 
 ---
 
@@ -50,7 +50,8 @@ Personal portfolio site built with **Flutter + TailwindCSS** and **Supabase** as
 - Interactive dashboard to showcase projects.  
 - Secure authentication implementation.  
 - Cloud deployment (GitHub Pages / Vercel).  
-👉 [Repository](./personal_web)  
+👉 [Repository](https://github.com/MasterZendika/raices)
+👉 [Webpage](https://raices-six.vercel.app/src/index.html)  
 
 ---
 
